@@ -1,0 +1,247 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+1_E.jpg,273,364,Out of Plane Stiffener,204,61,233,242
+1_E.jpg,273,364,Out of Plane Stiffener,45,149,64,318
+1_E.jpg,273,364,Out of Plane Stiffener,2,181,21,323
+1_E.jpg,273,364,Gusset Plate Connection,178,237,237,295
+1_E.jpg,273,364,Gusset Plate Connection,121,164,159,213
+1_E.jpg,273,364,Gusset Plate Connection,181,26,224,64
+2_E.jpg,364,273,Out of Plane Stiffener,144,168,177,273
+2_E.jpg,364,273,Out of Plane Stiffener,218,170,277,273
+2_E.jpg,364,273,Out of Plane Stiffener,330,183,364,273
+3_E.jpg,364,273,Out of Plane Stiffener,146,0,172,198
+3_E.jpg,364,273,Out of Plane Stiffener,220,3,258,201
+3_E.jpg,364,273,Bearing,131,207,187,273
+3_E.jpg,364,273,Bearing,211,209,276,273
+3_E.jpg,364,273,Out of Plane Stiffener,0,0,17,199
+4_E.jpg,400,300,Out of Plane Stiffener,128,64,161,267
+4_E.jpg,400,300,Out of Plane Stiffener,62,113,83,240
+4_E.jpg,400,300,Gusset Plate Connection,54,209,80,233
+4_E.jpg,400,300,Gusset Plate Connection,57,112,87,130
+4_E.jpg,400,300,Out of Plane Stiffener,37,149,50,210
+5_E.jpg,400,300,Out of Plane Stiffener,184,152,208,221
+5_E.jpg,400,300,Out of Plane Stiffener,43,193,59,254
+5_E.jpg,400,300,Out of Plane Stiffener,132,219,144,273
+5_E.jpg,400,300,Out of Plane Stiffener,262,256,273,299
+5_E.jpg,400,300,Gusset Plate Connection,92,238,112,264
+5_E.jpg,400,300,Gusset Plate Connection,295,290,307,299
+5_E.jpg,400,300,Bearing,178,221,214,255
+5_E.jpg,400,300,Bearing,82,269,110,298
+6_E.jpg,354,265,Gusset Plate Connection,120,82,157,122
+6_E.jpg,354,265,Gusset Plate Connection,108,170,144,215
+6_E.jpg,354,265,Gusset Plate Connection,287,171,326,214
+6_E.jpg,354,265,Gusset Plate Connection,284,84,323,122
+6_E.jpg,354,265,Out of Plane Stiffener,47,2,105,252
+6_E.jpg,354,265,Gusset Plate Connection,184,179,215,190
+6_E.jpg,354,265,Out of Plane Stiffener,266,114,283,195
+6_E.jpg,354,265,Out of Plane Stiffener,280,119,299,172
+6_E.jpg,354,265,Bearing,255,209,300,233
+6_E.jpg,354,265,Out of Plane Stiffener,112,119,135,172
+7_E.jpg,400,300,Bearing,45,22,400,216
+7_E.jpg,400,300,Out of Plane Stiffener,98,0,127,40
+7_E.jpg,400,300,Out of Plane Stiffener,180,0,209,29
+7_E.jpg,400,300,Out of Plane Stiffener,240,1,264,19
+8_E.jpg,400,300,Bearing,46,58,400,235
+8_E.jpg,400,300,Out of Plane Stiffener,90,1,117,48
+8_E.jpg,400,300,Out of Plane Stiffener,181,0,207,44
+8_E.jpg,400,300,Out of Plane Stiffener,240,0,265,44
+9_E.jpg,400,300,Bearing,64,161,228,266
+9_E.jpg,400,300,Bearing,197,153,337,223
+9_E.jpg,400,300,Out of Plane Stiffener,134,40,192,158
+9_E.jpg,400,300,Out of Plane Stiffener,256,51,315,156
+10_E.jpg,400,300,Bearing,85,27,314,275
+11_E.jpg,341,256,Gusset Plate Connection,125,80,339,206
+11_E.jpg,341,256,Gusset Plate Connection,166,57,316,105
+11_E.jpg,341,256,Gusset Plate Connection,9,72,71,129
+11_E.jpg,341,256,Out of Plane Stiffener,2,2,41,128
+12_E.jpg,341,256,Gusset Plate Connection,0,164,42,211
+12_E.jpg,341,256,Gusset Plate Connection,123,152,221,214
+12_E.jpg,341,256,Gusset Plate Connection,22,55,68,96
+12_E.jpg,341,256,Gusset Plate Connection,279,68,328,98
+12_E.jpg,341,256,Gusset Plate Connection,296,166,341,211
+12_E.jpg,341,256,Out of Plane Stiffener,282,97,312,186
+12_E.jpg,341,256,Out of Plane Stiffener,69,116,86,187
+12_E.jpg,341,256,Out of Plane Stiffener,259,118,283,188
+12_E.jpg,341,256,Out of Plane Stiffener,245,140,260,191
+12_E.jpg,341,256,Out of Plane Stiffener,93,14,105,57
+12_E.jpg,341,256,Out of Plane Stiffener,107,15,118,57
+12_E.jpg,341,256,Out of Plane Stiffener,132,15,143,57
+12_E.jpg,341,256,Out of Plane Stiffener,144,15,155,58
+12_E.jpg,341,256,Out of Plane Stiffener,186,16,198,59
+12_E.jpg,341,256,Out of Plane Stiffener,201,16,212,59
+12_E.jpg,341,256,Out of Plane Stiffener,225,17,236,60
+12_E.jpg,341,256,Out of Plane Stiffener,237,16,248,59
+12_E.jpg,341,256,Out of Plane Stiffener,88,136,100,182
+13_E.jpg,341,256,Gusset Plate Connection,21,91,69,147
+13_E.jpg,341,256,Gusset Plate Connection,72,85,115,122
+13_E.jpg,341,256,Gusset Plate Connection,143,78,299,164
+13_E.jpg,341,256,Out of Plane Stiffener,9,1,47,131
+13_E.jpg,341,256,Out of Plane Stiffener,62,2,95,119
+14_E.jpg,400,300,Out of Plane Stiffener,210,91,238,245
+14_E.jpg,400,300,Out of Plane Stiffener,233,104,260,246
+14_E.jpg,400,300,Bearing,176,247,263,270
+14_E.jpg,400,300,Bearing,258,242,289,265
+15_E.jpg,400,300,Bearing,133,66,185,89
+15_E.jpg,400,300,Bearing,190,64,240,85
+15_E.jpg,400,300,Out of Plane Stiffener,147,0,177,66
+15_E.jpg,400,300,Out of Plane Stiffener,206,0,230,64
+16_E.jpg,341,256,Gusset Plate Connection,109,15,254,74
+16_E.jpg,341,256,Gusset Plate Connection,115,62,231,102
+16_E.jpg,341,256,Gusset Plate Connection,198,198,233,224
+16_E.jpg,341,256,Gusset Plate Connection,82,198,121,226
+16_E.jpg,341,256,Gusset Plate Connection,297,138,341,182
+16_E.jpg,341,256,Out of Plane Stiffener,68,184,80,224
+16_E.jpg,341,256,Out of Plane Stiffener,48,186,61,220
+17_E.jpg,341,256,Bearing,70,62,220,222
+17_E.jpg,341,256,Out of Plane Stiffener,10,109,26,152
+18_E.jpg,341,256,Bearing,34,71,196,223
+18_E.jpg,341,256,Bearing,177,85,263,195
+18_E.jpg,341,256,Out of Plane Stiffener,293,0,318,113
+19_E.jpg,341,256,Bearing,53,21,72,43
+19_E.jpg,341,256,Bearing,76,23,97,42
+19_E.jpg,341,256,Bearing,121,12,156,43
+19_E.jpg,341,256,Bearing,159,11,190,41
+19_E.jpg,341,256,Bearing,292,1,341,41
+19_E.jpg,341,256,Out of Plane Stiffener,247,1,258,20
+20_E.jpg,400,300,Bearing,101,119,349,240
+20_E.jpg,400,300,Out of Plane Stiffener,153,2,239,122
+21_E.jpg,400,300,Gusset Plate Connection,93,194,130,241
+21_E.jpg,400,300,Gusset Plate Connection,293,194,350,248
+22_E.jpg,400,300,Out of Plane Stiffener,123,0,145,147
+22_E.jpg,400,300,Out of Plane Stiffener,228,54,263,204
+22_E.jpg,400,300,Out of Plane Stiffener,282,112,314,228
+22_E.jpg,400,300,Out of Plane Stiffener,110,174,122,254
+22_E.jpg,400,300,Out of Plane Stiffener,3,136,28,244
+22_E.jpg,400,300,Out of Plane Stiffener,175,198,187,263
+22_E.jpg,400,300,Out of Plane Stiffener,330,209,361,230
+22_E.jpg,400,300,Gusset Plate Connection,319,144,351,165
+22_E.jpg,400,300,Gusset Plate Connection,219,242,241,258
+22_E.jpg,400,300,Out of Plane Stiffener,253,227,268,271
+23_E.jpg,341,256,Bearing,137,145,171,188
+23_E.jpg,341,256,Bearing,183,146,214,185
+23_E.jpg,341,256,Out of Plane Stiffener,149,42,164,144
+23_E.jpg,341,256,Out of Plane Stiffener,193,44,209,142
+24_E.jpg,341,256,Bearing,129,15,172,70
+24_E.jpg,341,256,Bearing,188,17,230,70
+25_E.jpg,345,230,Gusset Plate Connection,115,53,204,164
+25_E.jpg,345,230,Out of Plane Stiffener,182,62,218,229
+25_E.jpg,345,230,Out of Plane Stiffener,67,100,85,178
+26_E.jpg,345,230,Out of Plane Stiffener,22,0,46,228
+26_E.jpg,345,230,Out of Plane Stiffener,110,3,129,220
+26_E.jpg,345,230,Out of Plane Stiffener,163,9,181,197
+26_E.jpg,345,230,Out of Plane Stiffener,216,28,230,178
+26_E.jpg,345,230,Out of Plane Stiffener,249,40,261,162
+26_E.jpg,345,230,Out of Plane Stiffener,276,46,285,152
+26_E.jpg,345,230,Out of Plane Stiffener,290,51,298,148
+26_E.jpg,345,230,Out of Plane Stiffener,302,54,309,143
+26_E.jpg,345,230,Out of Plane Stiffener,312,57,319,140
+27_E.jpg,345,230,Cover Plate Termination,147,165,226,193
+27_E.jpg,345,230,Out of Plane Stiffener,165,1,208,170
+28_E.jpg,345,230,Gusset Plate Connection,82,68,167,162
+28_E.jpg,345,230,Gusset Plate Connection,205,147,235,168
+28_E.jpg,345,230,Gusset Plate Connection,212,195,274,230
+28_E.jpg,345,230,Out of Plane Stiffener,15,47,48,230
+29_E.jpg,345,230,Cover Plate Termination,65,70,139,94
+30_E.jpg,345,230,Cover Plate Termination,115,182,178,194
+30_E.jpg,345,230,Out of Plane Stiffener,274,0,311,182
+30_E.jpg,345,230,Out of Plane Stiffener,0,0,19,192
+31_E.jpg,345,230,Gusset Plate Connection,66,13,114,65
+31_E.jpg,345,230,Gusset Plate Connection,71,152,118,202
+31_E.jpg,345,230,Gusset Plate Connection,147,93,174,124
+31_E.jpg,345,230,Gusset Plate Connection,211,151,246,202
+31_E.jpg,345,230,Gusset Plate Connection,122,31,170,55
+31_E.jpg,345,230,Gusset Plate Connection,201,83,218,102
+31_E.jpg,345,230,Gusset Plate Connection,206,8,242,61
+31_E.jpg,345,230,Gusset Plate Connection,172,35,204,54
+32_E.jpg,345,230,Cover Plate Termination,151,117,214,148
+32_E.jpg,345,230,Out of Plane Stiffener,55,0,96,96
+32_E.jpg,345,230,Out of Plane Stiffener,290,0,336,165
+33_E.jpg,345,230,Out of Plane Stiffener,79,49,97,230
+33_E.jpg,345,230,Out of Plane Stiffener,170,53,186,230
+33_E.jpg,345,230,Out of Plane Stiffener,245,58,267,230
+33_E.jpg,345,230,Cover Plate Termination,157,46,185,58
+33_E.jpg,345,230,Out of Plane Stiffener,314,60,345,230
+34_E.jpg,345,230,Cover Plate Termination,127,126,205,158
+34_E.jpg,345,230,Out of Plane Stiffener,312,0,341,144
+35_E.jpg,345,230,Gusset Plate Connection,74,17,148,101
+35_E.jpg,345,230,Gusset Plate Connection,182,128,220,166
+35_E.jpg,345,230,Gusset Plate Connection,250,31,311,97
+35_E.jpg,345,230,Gusset Plate Connection,87,174,154,230
+35_E.jpg,345,230,Gusset Plate Connection,245,164,298,229
+35_E.jpg,345,230,Gusset Plate Connection,215,64,243,89
+36_E.jpg,345,230,Out of Plane Stiffener,34,90,47,168
+36_E.jpg,345,230,Out of Plane Stiffener,52,89,67,169
+36_E.jpg,345,230,Out of Plane Stiffener,73,90,88,170
+36_E.jpg,345,230,Out of Plane Stiffener,102,87,119,176
+36_E.jpg,345,230,Out of Plane Stiffener,150,85,165,181
+36_E.jpg,345,230,Out of Plane Stiffener,194,84,210,186
+36_E.jpg,345,230,Out of Plane Stiffener,247,81,262,189
+36_E.jpg,345,230,Out of Plane Stiffener,308,79,323,193
+36_E.jpg,345,230,Out of Plane Stiffener,0,91,33,164
+36_E.jpg,345,230,Cover Plate Termination,96,83,103,87
+36_E.jpg,345,230,Cover Plate Termination,119,82,130,86
+37_E.jpg,345,230,Gusset Plate Connection,79,9,128,64
+37_E.jpg,345,230,Gusset Plate Connection,94,150,140,204
+37_E.jpg,345,230,Gusset Plate Connection,240,157,282,226
+37_E.jpg,345,230,Gusset Plate Connection,233,0,276,51
+37_E.jpg,345,230,Gusset Plate Connection,166,95,198,122
+38_E.jpg,345,230,Gusset Plate Connection,65,38,251,224
+39_E.jpg,345,230,Out of Plane Stiffener,49,24,111,230
+39_E.jpg,345,230,Out of Plane Stiffener,202,59,244,230
+39_E.jpg,345,230,Out of Plane Stiffener,271,75,313,230
+39_E.jpg,345,230,Out of Plane Stiffener,320,87,344,230
+39_E.jpg,345,230,Cover Plate Termination,146,20,193,49
+40_E.jpg,345,230,Out of Plane Stiffener,34,43,86,227
+40_E.jpg,345,230,Out of Plane Stiffener,299,78,340,230
+41_E.jpg,345,230,Cover Plate Termination,147,111,180,128
+41_E.jpg,345,230,Out of Plane Stiffener,143,127,172,230
+41_E.jpg,345,230,Out of Plane Stiffener,29,100,57,230
+41_E.jpg,345,230,Out of Plane Stiffener,223,143,244,230
+42_E.jpg,345,230,Cover Plate Termination,148,126,199,148
+42_E.jpg,345,230,Out of Plane Stiffener,0,0,31,92
+43_E.jpg,345,230,Cover Plate Termination,121,155,197,188
+44_E.jpg,345,230,Gusset Plate Connection,34,4,267,213
+45_E.jpg,345,230,Gusset Plate Connection,65,36,228,196
+46_E.jpg,345,230,Gusset Plate Connection,27,3,286,230
+47_E.jpg,345,230,Gusset Plate Connection,56,72,87,103
+47_E.jpg,345,230,Gusset Plate Connection,60,158,91,191
+47_E.jpg,345,230,Gusset Plate Connection,114,124,133,141
+47_E.jpg,345,230,Gusset Plate Connection,158,69,187,102
+47_E.jpg,345,230,Gusset Plate Connection,159,161,189,192
+47_E.jpg,345,230,Gusset Plate Connection,140,120,152,132
+47_E.jpg,345,230,Gusset Plate Connection,136,79,153,88
+48_E.jpg,345,230,Gusset Plate Connection,0,1,69,62
+48_E.jpg,345,230,Gusset Plate Connection,128,108,169,152
+48_E.jpg,345,230,Gusset Plate Connection,11,187,73,230
+48_E.jpg,345,230,Gusset Plate Connection,231,1,303,65
+48_E.jpg,345,230,Gusset Plate Connection,232,201,298,230
+48_E.jpg,345,230,Gusset Plate Connection,180,105,213,137
+48_E.jpg,345,230,Gusset Plate Connection,178,12,211,35
+48_E.jpg,345,230,Gusset Plate Connection,245,66,265,81
+48_E.jpg,345,230,Out of Plane Stiffener,72,4,98,73
+48_E.jpg,345,230,Out of Plane Stiffener,133,9,153,108
+48_E.jpg,345,230,Out of Plane Stiffener,71,88,100,166
+49_E.jpg,345,230,Gusset Plate Connection,36,67,175,186
+50_E.jpg,345,230,Out of Plane Stiffener,26,19,60,226
+50_E.jpg,345,230,Out of Plane Stiffener,208,12,229,228
+51_E.jpg,345,230,Cover Plate Termination,59,110,172,151
+51_E.jpg,345,230,Out of Plane Stiffener,125,1,194,112
+52_E.jpg,345,230,Out of Plane Stiffener,102,5,137,230
+52_E.jpg,345,230,Gusset Plate Connection,296,7,345,84
+52_E.jpg,345,230,Out of Plane Stiffener,195,3,224,230
+52_E.jpg,345,230,Out of Plane Stiffener,279,81,315,200
+53_E.jpg,345,230,Gusset Plate Connection,48,34,89,78
+53_E.jpg,345,230,Gusset Plate Connection,56,159,93,199
+53_E.jpg,345,230,Gusset Plate Connection,180,162,221,206
+53_E.jpg,345,230,Gusset Plate Connection,179,28,219,77
+53_E.jpg,345,230,Gusset Plate Connection,121,106,147,134
+53_E.jpg,345,230,Gusset Plate Connection,124,52,142,68
+53_E.jpg,345,230,Gusset Plate Connection,152,56,163,67
+53_E.jpg,345,230,Gusset Plate Connection,165,58,174,66
+53_E.jpg,345,230,Out of Plane Stiffener,34,30,63,205
+53_E.jpg,345,230,Out of Plane Stiffener,76,89,92,157
+54_E.jpg,345,230,Cover Plate Termination,103,122,188,159
+55_E.jpg,345,230,Gusset Plate Connection,7,0,70,61
+55_E.jpg,345,230,Gusset Plate Connection,114,106,149,140
+55_E.jpg,345,230,Gusset Plate Connection,23,161,82,225
+55_E.jpg,345,230,Gusset Plate Connection,204,0,269,67
+55_E.jpg,345,230,Gusset Plate Connection,198,188,256,230
